@@ -1,1 +1,18 @@
-
+{
+   "news":[
+      {
+         "category":"all",
+         "item":[
+           {
+               "title":"Sample Header",
+               "desc":"This is an example description which can be changed to suit your content. Now i am just mumbling on shit to fill up space. Thanks for reading. ",
+            },
+             {
+               "title":"Sample Header 2",
+               "desc":"This is an example description which can be changed to suit your content. Now i am just mumbling on shit to fill up space. Thanks for reading. ",
+            }
+         ]
+      }
+   
+   ]
+}
